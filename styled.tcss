@@ -1,0 +1,45 @@
+Screen {
+  align: center middle;
+}
+
+#container {
+  width: 60;
+  height: 15;
+  border: round $primary;
+  padding: 1;
+  align: center middle;
+}
+
+#container.finished {
+  border: double $error;
+}
+
+TimeDisplay, #status-label {
+  text-align: center;
+}
+
+TimeDisplay {
+  height: 5;
+  color: $accent;
+  height: 3;
+}
+
+#status-label {
+  width: 100%;
+  margin-bottom: 1;
+  text-style: bold;
+}
+
+#progress-bar {
+  width: 40;
+  margin: 1 10;
+}
+
+#spacer {
+  height: 1fr;
+}
+
+#total-label {
+  padding-left: 1;
+}
+

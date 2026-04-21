@@ -1,0 +1,10 @@
+[project]
+name = "termidoro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "textual>=8.0.2",
+    "textual-dev>=1.8.0",
+]
