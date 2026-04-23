@@ -28,3 +28,7 @@ Honestly, I think this is already a complete app by itself since this is a 'mini
 
 - Ability to adjust the timer so you aren't stuck with the default 40m and 20m durations.
 - Sound when the timer ends. (I have looked it up and I'm not really sure if there is a way to add sound to the app)
+
+## Preview
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9b585925-4ac0-4589-a6ab-b31e42a6e73f" />
