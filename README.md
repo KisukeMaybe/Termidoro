@@ -1,4 +1,4 @@
-# Termidoro 🍅
+# Termidoro
 
 A minimalist, keyboard-driven Animedoro timer for the Linux terminal. Built using (just) Python and Textual.
 
